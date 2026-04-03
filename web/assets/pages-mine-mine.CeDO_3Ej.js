@@ -1,0 +1,1 @@
+import{c as a,e,w as s,_ as t,f as r,k as o,u as n}from"./index-BzW0i4GD.js";import{_ as c}from"./_plugin-vue_export-helper.BCo6x5W8.js";const p=c({},[["render",function(c,p){const f=n,l=t;return a(),e(l,{class:"page-container"},{default:s((()=>[r(f,{class:"page-title"},{default:s((()=>[o("我的")])),_:1})])),_:1})}],["__scopeId","data-v-8f127c7a"]]);export{p as default};
