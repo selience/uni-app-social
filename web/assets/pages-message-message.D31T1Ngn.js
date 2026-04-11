@@ -1,1 +1,0 @@
-import{c as a,e,w as s,_ as t,f as r,k as o,u as n}from"./index-BzW0i4GD.js";import{_ as c}from"./_plugin-vue_export-helper.BCo6x5W8.js";const f=c({},[["render",function(c,f){const p=n,l=t;return a(),e(l,{class:"page-container"},{default:s((()=>[r(p,{class:"page-title"},{default:s((()=>[o("消息")])),_:1})])),_:1})}],["__scopeId","data-v-cff9909a"]]);export{f as default};
