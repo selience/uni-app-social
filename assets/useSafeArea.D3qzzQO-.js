@@ -1,0 +1,1 @@
+import{j as e}from"./index-D198wbpe.js";const t=e(0),a=e(0),n=e(0);let o=!1;const s=()=>{(()=>{if(o)return null;o=!0})();return new UTSJSONObject({safeAreaInsetsBottom:t,safeAreaInsetsTop:a,statusBarHeight:n,getSafePaddingBottom:e=>"".concat(e+t.value,"px"),getSafePaddingTop:e=>{const t=n.value>0?n.value:a.value;return"".concat(e+t,"px")}})};export{s as u};
