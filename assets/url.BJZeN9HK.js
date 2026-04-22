@@ -1,0 +1,1 @@
+import{g as t}from"./index-BW3TRDms.js";const r=r=>{if(null==r||0===r.length)return"";if(r.includes("://")||r.startsWith("data:")||r.startsWith("blob:"))return r;const s=t.baseUrl||"";if(0===s.length)return r;return(s.endsWith("/")?s.slice(0,-1):s)+(r.startsWith("/")?r:"/"+r)};export{r as b};
